@@ -1,0 +1,12 @@
+.menuitem-list {
+  width: 240px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+  line-height: 1rem;
+  padding-left: 16px;
+  span {
+    margin-right: 24px;
+  }
+}

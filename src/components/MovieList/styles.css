@@ -1,0 +1,18 @@
+.movie-list-wrapper {
+  background: #f9f9f9;
+}
+
+.movie-list-wrapper h3 {
+  margin: 25px;
+  font-weight: 500;
+}
+
+.movie-list-wrapper .movie-list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin: 20px;
+}
+/*# sourceMappingURL=styles.css.map */

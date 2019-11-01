@@ -1,0 +1,14 @@
+.movie-list-wrapper {
+  background: #f9f9f9;
+
+  h3 {
+    margin: 25px;
+    font-weight: 500;
+  }
+
+  .movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+  }
+}

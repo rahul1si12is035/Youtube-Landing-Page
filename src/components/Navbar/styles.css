@@ -1,0 +1,114 @@
+.navbar-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-left: 16px;
+}
+
+.navbar-wrapper .navbar-left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.navbar-wrapper .navbar-left .hamburger-menu {
+  padding: 8px;
+  margin-right: 16px;
+  width: 24px;
+}
+
+.navbar-wrapper .navbar-left .hamburger-menu .material-icons {
+  cursor: pointer;
+}
+
+.navbar-wrapper .navbar-left .youtube-logo-wrapper {
+  width: 129px;
+}
+
+.navbar-wrapper .navbar-left .youtube-logo-wrapper .youtube-logo {
+  width: 129px;
+}
+
+.navbar-wrapper .navbar-center {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.navbar-wrapper .navbar-center .navbar-center-input input {
+  border: 1px solid #ccc;
+  width: 562px;
+  height: 26px;
+  padding: 2px 6px;
+  outline: none;
+  font-family: "Roboto", "Noto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 4px;
+  color: #000;
+}
+
+.navbar-wrapper .navbar-center .navbar-search-icon {
+  width: 51px;
+  height: 28px;
+  padding: 1px 6px;
+  border: 1px solid #d3d3d3;
+  background: #f8f8f8;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.navbar-wrapper .navbar-center .navbar-search-icon .material-icons {
+  font-size: 20px;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.navbar-wrapper .navbar-center .navbar-search-icon .material-icons:hover {
+  opacity: 1;
+}
+
+.navbar-wrapper .navbar-right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.navbar-wrapper .navbar-right .navbar-right-icon {
+  width: 40px;
+  height: 40px;
+  margin-right: 8px;
+}
+/*# sourceMappingURL=styles.css.map */
